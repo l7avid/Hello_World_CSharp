@@ -1,0 +1,15 @@
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\1 - Hello World\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\1 - Hello World\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\1 - Hello World\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\1 - Hello World\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\1 - Hello World\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\1 - Hello World\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\1 - Hello World\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\1 - Hello World\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\1 - Hello World\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\1 - Hello World\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\1 - Hello World\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\1 - Hello World\HelloWorld\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\1 - Hello World\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\1 - Hello World\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\1 - Hello World\HelloWorld\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
